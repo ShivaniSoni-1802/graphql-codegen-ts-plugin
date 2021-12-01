@@ -6,7 +6,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ShivaniSoni-1802/plugin-npm-package.git"
+		"url": "https://github.com/ShivaniSoni-1802/graphql-codegen-ts-plugin.git"
 	},
 	"license": "MIT",
 	"scripts": {
@@ -20,7 +20,7 @@
 		"@graphql-codegen/plugin-helpers": "^2.3.0",
 		"@graphql-codegen/schema-ast": "^2.4.0",
 		"@graphql-codegen/testing": "^1.17.7",
-		"@graphql-codegen/visitor-plugin-common": "2.5.1",
+		"@graphql-codegen/visitor-plugin-common": "^2.5.1",
 		"@types/jest": "^27.0.3",
 		"auto-bind": "^5.0.1",
 		"cypress": "^9.1.0",
